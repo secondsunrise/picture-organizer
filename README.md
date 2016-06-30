@@ -2,7 +2,7 @@
 
 ## Requirements
 * Python 2.7+
-* os, shutil, tkFileDialog
+* [os](http://www.pythonforbeginners.com/os/pythons-os-module), [shutil](https://docs.python.org/2/library/shutil.html), [tkFileDialog](http://tkinter.unpythonic.net/wiki/tkFileDialog)
 
 ## Description
 ***picture-organizer*** is a quick-n-dirty script I came up with to easily rename and copy picture files from one directory to another. It reads picture file names formatted in a specific way and determines which ones it can group together into a folder based on the date each was taken.
@@ -40,14 +40,14 @@ etc...
 6. Copy the pictures from the source directory to their specific folders in the target directory (backend)
 7. Prompt to run the program again or quit
 
-##### Example of tkFileDialog window
+#### Example of tkFileDialog window
 
 ![alt text](https://cloud.githubusercontent.com/assets/17801234/16480140/b5d24fc8-3e61-11e6-85d3-19445de1eeae.PNG "tkFileDialog Window")
 
-##### Here is one full run of the script
+#### Here is one full run of the script
 
 ![alt text](https://cloud.githubusercontent.com/assets/17801234/16480062/58fa8d42-3e61-11e6-98ac-455080015175.PNG "Full Run")
 
-##### What the newly created folders look like after running the program
+#### What the newly created folders look like after running the program
 
 ![alt text](https://cloud.githubusercontent.com/assets/17801234/16480108/950b9cc2-3e61-11e6-880d-95c643afcf78.PNG "Newly Created Folders")
