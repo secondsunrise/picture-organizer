@@ -55,6 +55,7 @@ This flow chart helps illustrate each step the program takes in chronological or
 ![alt text](https://cloud.githubusercontent.com/assets/17801234/16480108/950b9cc2-3e61-11e6-880d-95c643afcf78.PNG "Newly Created Folders")
 
 ## Futuristic Ideas
-* Make it possible to use ***picture-organizer*** with files *not* formatted like `DateTaken_TimeTaken.jpg`, instead use the "Date" attribute of the file to determine which files should be grouped together
+* Make it possible to use ***picture-organizer*** with files *not* formatted like `DateTaken_TimeTaken.jpg`, instead use the "Date" attribute of the file to determine which files should be grouped together.
 ![alt text](https://cloud.githubusercontent.com/assets/17801234/16497780/eb19e1ba-3eb5-11e6-873f-46d052ff1191.PNG "Future Date Taken Attribute")
-* 
+* Add a menu allowing the user to select which part of the process they would like to complete. This would allow for more flexibility and would also enable a user to make changes if they entered incorrect information.
+![alt text](https://cloud.githubusercontent.com/assets/17801234/16498104/6b96a5fc-3eb7-11e6-9086-809fcfa602f5.jpg "Future Menu System")
