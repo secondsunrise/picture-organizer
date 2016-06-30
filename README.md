@@ -53,3 +53,7 @@ This flow chart helps illustrate each step the program takes in chronological or
 #### What the newly created folders look like after running the program
 
 ![alt text](https://cloud.githubusercontent.com/assets/17801234/16480108/950b9cc2-3e61-11e6-880d-95c643afcf78.PNG "Newly Created Folders")
+
+## Futuristic Ideas
+* Make it possible to use ***picture-organizer*** with files *not* formatted like `DateTaken_TimeTaken.jpg`, instead use the "Date" attribute of the file to determine which files should be grouped together
+* 
