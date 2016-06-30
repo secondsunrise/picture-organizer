@@ -56,4 +56,5 @@ This flow chart helps illustrate each step the program takes in chronological or
 
 ## Futuristic Ideas
 * Make it possible to use ***picture-organizer*** with files *not* formatted like `DateTaken_TimeTaken.jpg`, instead use the "Date" attribute of the file to determine which files should be grouped together
+![alt text](https://cloud.githubusercontent.com/assets/17801234/16497780/eb19e1ba-3eb5-11e6-873f-46d052ff1191.PNG "Future Date Taken Attribute")
 * 
