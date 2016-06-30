@@ -1,6 +1,10 @@
 # picture-organizer
 
-### Description
+## Requirements
+* Python 2.7+
+* os, shutil, tkFileDialog
+
+## Description
 ***picture-organizer*** is a quick-n-dirty script I came up with to easily rename and copy picture files from one directory to another. It reads picture file names formatted in a specific way and determines which ones it can group together into a folder based on the date each was taken.
 
 For example, lets say you have a couple hundred pictures in this directory `C:\Users\<username>\Downloads\Pictures From 2015` all named something like `DateTaken_TimeTaken.jpg`. For example:
@@ -27,7 +31,7 @@ etc...
 * 2015-09-03 Family Pictures - Bobs Cell Phone
 * 2015-09-08 Family Pictures - Bobs Cell Phone
 
-### Flow Chart
+## Flow Chart
 1. Prompt user for the source directory
 2. Prompt user for the target directory
 3. Prompt user to enter the text they wish to append to each folder name
