@@ -35,7 +35,19 @@ etc...
 1. Prompt user for the source directory
 2. Prompt user for the target directory
 3. Prompt user to enter the text they wish to append to each folder name
-4. Create target directory
-5. Create folders within the target directory
-6. Copy the pictures from the source directory to their specific folders in the target directory
+4. Create target directory (backend)
+5. Create folders within the target directory (backend)
+6. Copy the pictures from the source directory to their specific folders in the target directory (backend)
 7. Prompt to run the program again or quit
+
+##### Example of tkFileDialog window
+
+![alt text](https://cloud.githubusercontent.com/assets/17801234/16480140/b5d24fc8-3e61-11e6-85d3-19445de1eeae.PNG "tkFileDialog Window")
+
+##### Here is one full run of the script
+
+![alt text](https://cloud.githubusercontent.com/assets/17801234/16480062/58fa8d42-3e61-11e6-98ac-455080015175.PNG "Full Run")
+
+##### What the newly created folders look like after running the program
+
+![alt text](https://cloud.githubusercontent.com/assets/17801234/16480108/950b9cc2-3e61-11e6-880d-95c643afcf78.PNG "Newly Created Folders")
