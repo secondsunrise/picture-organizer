@@ -9,7 +9,7 @@
 
 #### Example of tkFileDialog window
 
-![alt text]( "tkFileDialog Window")
+![alt text](https://cloud.githubusercontent.com/assets/17801234/16591181/e97cf5b4-4297-11e6-9e80-5124691ae06f.PNG "tkFileDialog Window")
 
 For example, lets say you have a couple hundred pictures in this directory `C:\Users\<username>\Downloads\Pictures From 2015` all named something like `DateTaken_TimeTaken.jpg`. For example:
 ```
