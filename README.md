@@ -1,11 +1,10 @@
 # picture-organizer
 
+***picture-organizer*** is a quick-n-dirty script I came up with to easily rename and copy picture files from one directory to another. It reads picture file names formatted in a specific way and determines which ones it can group together into a folder based on the date each was taken. ***picture-organizer*** uses `tkFileDialog` as an easy GUI for the user to select the source and target directories. Or create a target directory if one does not yet exist. 
+
 ## Requirements
 * Python 2.7+
 * [os](http://www.pythonforbeginners.com/os/pythons-os-module), [shutil](https://docs.python.org/2/library/shutil.html), [tkFileDialog](http://tkinter.unpythonic.net/wiki/tkFileDialog)
-
-## Description
-***picture-organizer*** is a quick-n-dirty script I came up with to easily rename and copy picture files from one directory to another. It reads picture file names formatted in a specific way and determines which ones it can group together into a folder based on the date each was taken. ***picture-organizer*** uses `tkFileDialog` as an easy GUI for the user to select the source and target directories. Or create a target directory if one does not yet exist. 
 
 #### Example of tkFileDialog window
 
